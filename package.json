@@ -1,11 +1,11 @@
 {
   "name": "cli_calculator_shaheer_piaic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI based calculator developed using TypeScript and colors addes using a package of chalk.",
   "main": "index.js",
   "type": "module",
-  "bin":{
-    "cli_calculator_shaheer_piaic":"./src/calculator_shaheer.js"
+  "bin": {
+    "cli_calculator_shaheer_piaic": "./src/calculator_shaheer.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
