@@ -1,6 +1,6 @@
 {
   "name": "cli_calculator_shaheer_piaic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI based calculator developed using TypeScript and colors addes using a package of chalk.",
   "main": "index.js",
   "type": "module",
